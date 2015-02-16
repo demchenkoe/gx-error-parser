@@ -1,0 +1,22 @@
+{
+  "name": "gx-error-parser",
+  "version": "0.0.1",
+  "description": "Handler for errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demchenkoe/gx-public-error.git"
+  },
+  "keywords": [
+    "errors",
+    "hundler"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/gx-public-error/issues"
+  }
+}
